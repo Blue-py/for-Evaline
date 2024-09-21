@@ -6,8 +6,8 @@
     <title>زر للانتقال إلى صفحة بلو</title>
 </head>
 <body>
-    <a href="https://mail.google.com/mail/u/4/#inbox/FMfcgzQXJGrSnFGZMWxQZcQMVCvlZwQf">
-        <button>الانتقال إلى صفحة بلو</button>
-    </a>
+   <a href='#'>
+       <button><img src ='yu.jpg'>  </button>
+   </a>
 </body>
 </html>
